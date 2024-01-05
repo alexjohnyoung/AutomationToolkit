@@ -1,5 +1,5 @@
 # Automation Toolkit
-
+![image1](image1.PNG)
 ## Description
 This Python project provides a GUI-based automation toolkit, facilitating easy management and execution of procedures, resources, and events. It's built using `tkinter` for the GUI components and structured with separate manager classes for procedures, events, and resources.
 
